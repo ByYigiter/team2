@@ -13,4 +13,8 @@ public class Car {
 
 
 
+
+    String a_string = "This is a String...";
+
+
 }
