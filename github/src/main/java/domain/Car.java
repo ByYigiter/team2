@@ -10,6 +10,11 @@ public class Car {
 
     String str2 = "Muhammet Mirac v1";
 
+    int test=10;
+    int test1=10;
+    int test2=10;
+
+
 
 
 
